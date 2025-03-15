@@ -14,6 +14,7 @@ I start by importing the necessary Python libraries and the [dataset](https://st
 
 ### Summary Statistics
 Before moving forward, I take a quick look at the summary statistics of the dataset.
+![Summary Statistics](https://github.com/Sourabh1710/Analyzing-Screen-Time-with-Python/blob/main/images/Statistics.png)
 
 ### Screen Time Trends Over Time
 I analyze the screen time trends of all the apps in the data over time.
