@@ -69,6 +69,8 @@ To calculate the probability of opening an app after receiving a notification:
 
 [ P(Open | Notification) = \frac{\text{Number of days the app was opened when notifications were received}}{\text{Total number of days notifications were received}} \]
 
+![Probability](https://github.com/Sourabh1710/Analyzing-Screen-Time-with-Python/blob/main/images/Probability.png)
+
 For all listed apps (**8 Ball Pool, Facebook, Instagram, LinkedIn, Netflix, Safari, WhatsApp, and X**), the probability is **1.0**, meaning I open the app **every time a notification is received**. 
 
 ### Insight:
